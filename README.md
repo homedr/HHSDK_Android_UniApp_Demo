@@ -1,0 +1,2 @@
+# HHSDK_Android_UniApp_Demo
+和缓视频医生Android版本UniApp的Demo
