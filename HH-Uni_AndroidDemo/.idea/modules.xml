@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/HH-Uni_AndroidDemo.iml" filepath="$PROJECT_DIR$/.idea/modules/HH-Uni_AndroidDemo.iml" group="HH-Uni_AndroidDemo" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/simpleDemo/simpleDemo.iml" filepath="$PROJECT_DIR$/.idea/modules/simpleDemo/simpleDemo.iml" group="HH-Uni_AndroidDemo/simpleDemo" />
+    </modules>
+  </component>
+</project>

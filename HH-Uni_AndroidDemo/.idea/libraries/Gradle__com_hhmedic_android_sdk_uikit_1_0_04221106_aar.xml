@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.hhmedic.android.sdk:uikit:1.0.04221106@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/92e58a806ae2a83fd34903370f0dd32a/jetified-uikit-1.0.04221106/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/92e58a806ae2a83fd34903370f0dd32a/jetified-uikit-1.0.04221106/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/92e58a806ae2a83fd34903370f0dd32a/jetified-uikit-1.0.04221106/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

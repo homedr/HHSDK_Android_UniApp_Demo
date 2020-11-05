@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: com.hhmedic.android.sdk:video:1.0.0.10271704@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/16c59e6a5505bbd4cd63426fa7e2c5ed/jetified-video-1.0.0.10271704/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/16c59e6a5505bbd4cd63426fa7e2c5ed/jetified-video-1.0.0.10271704/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/16c59e6a5505bbd4cd63426fa7e2c5ed/jetified-video-1.0.0.10271704/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/16c59e6a5505bbd4cd63426fa7e2c5ed/jetified-video-1.0.0.10271704/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.hhmedic.android.sdk/video/1.0.0.10271704/4becfd584aef4732d0cb89a4b0cfd07e53a81d0a/video-1.0.0.10271704-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

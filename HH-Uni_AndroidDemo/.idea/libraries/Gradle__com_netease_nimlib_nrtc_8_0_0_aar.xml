@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: com.netease.nimlib:nrtc:8.0.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/5abedc929fedc6c1990b98c027ff5652/jetified-nrtc-8.0.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/5abedc929fedc6c1990b98c027ff5652/jetified-nrtc-8.0.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/5abedc929fedc6c1990b98c027ff5652/jetified-nrtc-8.0.0/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/5abedc929fedc6c1990b98c027ff5652/jetified-nrtc-8.0.0/jars/libs/nrtc-sdk-part.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.netease.nimlib/nrtc/8.0.0/ee4e0a297ff87e1f2f748d4da5743d5434fb5635/nrtc-8.0.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.netease.nimlib/nrtc/8.0.0/ee4e0a297ff87e1f2f748d4da5743d5434fb5635/nrtc-8.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.hhmedic.android.sdk:hh:3.0.4.10271705@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/5afdbe5cea589dee8c6033c97eeba34e/jetified-hh-3.0.4.10271705/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/5afdbe5cea589dee8c6033c97eeba34e/jetified-hh-3.0.4.10271705/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/5afdbe5cea589dee8c6033c97eeba34e/jetified-hh-3.0.4.10271705/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.hhmedic.android.sdk/hh/3.0.4.10271705/5188adef5d0d0113ca951781d9ecbd52e3806f37/hh-3.0.4.10271705-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

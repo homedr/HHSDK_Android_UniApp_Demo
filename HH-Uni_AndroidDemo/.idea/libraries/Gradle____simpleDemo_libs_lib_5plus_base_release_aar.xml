@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: ./simpleDemo/libs/lib.5plus.base-release.aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/605e79d6658f38d4d093bc5dd773d006/jetified-lib.5plus.base-release/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/605e79d6658f38d4d093bc5dd773d006/jetified-lib.5plus.base-release/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/605e79d6658f38d4d093bc5dd773d006/jetified-lib.5plus.base-release/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

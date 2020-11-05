@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.netease.nimlib:avchat:8.0.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/7d23c7ddbca47838b8a153bc25d0299b/jetified-avchat-8.0.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/7d23c7ddbca47838b8a153bc25d0299b/jetified-avchat-8.0.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/7d23c7ddbca47838b8a153bc25d0299b/jetified-avchat-8.0.0/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.netease.nimlib/avchat/8.0.0/5768abb80ce665a8cc40c215fa3dea7b22669275/avchat-8.0.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.netease.nimlib/avchat/8.0.0/1910d1c72c72adaafeefa683e8ad03f96f41e34c/avchat-8.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

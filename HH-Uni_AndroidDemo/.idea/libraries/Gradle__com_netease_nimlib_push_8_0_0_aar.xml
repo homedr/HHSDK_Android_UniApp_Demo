@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.netease.nimlib:push:8.0.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/011ec7901a784669374bc792d6b303f0/jetified-push-8.0.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/011ec7901a784669374bc792d6b303f0/jetified-push-8.0.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/011ec7901a784669374bc792d6b303f0/jetified-push-8.0.0/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.netease.nimlib/push/8.0.0/d98b8c1ea720891164884f81afa1e0e3678a342/push-8.0.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.netease.nimlib/push/8.0.0/1b95b9409fd984422aea5126929206fa721bdf6d/push-8.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

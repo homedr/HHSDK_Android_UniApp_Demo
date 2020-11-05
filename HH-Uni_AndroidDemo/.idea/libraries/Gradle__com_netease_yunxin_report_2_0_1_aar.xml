@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.netease.yunxin:report:2.0.1@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/fc2095d9449ef27b2a27934d4adca0af/jetified-report-2.0.1/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/fc2095d9449ef27b2a27934d4adca0af/jetified-report-2.0.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/fc2095d9449ef27b2a27934d4adca0af/jetified-report-2.0.1/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.netease.yunxin/report/2.0.1/4f43704d61e13c03bb556691f5d56b6d09296070/report-2.0.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.netease.yunxin/report/2.0.1/c5c2000cd13f9c26216ccb101634b225e06200d9/report-2.0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
